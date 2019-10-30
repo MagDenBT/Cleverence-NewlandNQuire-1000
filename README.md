@@ -12,3 +12,5 @@ Cleverence intgration plugin for Newland NQuire-1000 pricechecker
 
 P.S. Драйвер сканера взят у felHR85(https://github.com/felHR85/UsbSerial) + выложил свою адаптацию драйвера для использования в других языках программирования. А у feifly6666 есть проект управления сканером - https://github.com/feifly6666/GPIODemo
 
+Как пользоваться?
+ - Собрать APK, установить на ТСД и все. Cleverence радостно скажет, что устройство интегрировано
